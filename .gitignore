@@ -1,0 +1,11 @@
+Thumbs.db
+*/uncompressed/
+*/gimp/
+.dist
+.tmp
+.sass-cache
+.log
+node_modules
+package-lock.json
+public/
+.DS_Store
