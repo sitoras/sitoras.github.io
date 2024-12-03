@@ -20,7 +20,7 @@ title = "Sitora Salaeva"
 
   links = [
     { email = "mailto:sitora.salaeva@math.unipd.it" },
-    { linkedin = "www.linkedin.com/in/sitora-salaeva" },
+    { linkedin = "https://www.linkedin.com/in/sitora-salaeva/" },
     { github = "https://github.com/sitoras" },
     { orcid = "https://orcid.org/0009-0008-0858-5003" },
   ]
